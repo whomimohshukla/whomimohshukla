@@ -233,7 +233,7 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/whomimohshukla/devconnect" title="DevConnect">
+      <a href="https://github.com/whomimohshukla/Book-My-Bus" title="Book-My-Bus">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=devconnect&theme=react&border_color=61dafb&border_radius=10" />
       </a>
     </td>
