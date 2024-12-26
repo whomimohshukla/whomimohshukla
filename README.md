@@ -212,8 +212,8 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <a href="https://github.com/whomimohshukla/stranger-connect" title="Stranger Connect">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=stranger-connect&theme=react&border_color=61dafb&border_radius=10" />
+      <a href="https://github.com/whomimohshukla/Chatr-" title="Chatr-">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=Chatr-&theme=react&border_color=61dafb&border_radius=10" />
       </a>
     </td>
     <td width="50%">
