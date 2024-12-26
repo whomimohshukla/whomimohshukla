@@ -206,32 +206,44 @@
 <hr style="background-color: #696969; height: 0.1px; border: none;">
 <br><br>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/whomimohshukla/chatrr" title="Chatrr">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=chatrr&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/whomimohshukla/bookmybus" title="BookMyBus">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=bookmybus&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/whomimohshukla/stranger-connect" title="Stranger Connect">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=stranger-connect&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/whomimohshukla/ai-image-generator" title="AI Image Generator">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=ai-image-generator&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/whomimohshukla/skillbridge" title="SkillBridge">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=skillbridge&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/whomimohshukla/devconnect" title="DevConnect">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=devconnect&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/whomimohshukla/skillbridge" title="SkillBridge">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=skillbridge&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/whomimohshukla/weatherapp" title="WeatherApp">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=weatherapp&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<br><br>
-<hr style="background-color: #696969; height: 0.1px; border: none;">
 <br>
 
-<h4 align="center">
-  <a href="https://github.com/whomimohshuk
+<p align="center">
+  <a href="https://github.com/whomimohshukla?tab=repositories" title="Show Repositories">
+    <img src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white&link=https://github.com/whomimohshukla?tab=repositories" alt="More Repositories" />
+  </a>
+</p>
