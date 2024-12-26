@@ -210,6 +210,24 @@
 <br>
 
 <table align="center">
+
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/whomimohshukla/-Freelance-Marketplace--Project" title="Freelance-Marketplace">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=-Freelance-Marketplace--Project&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/whomimohshukla/Book-My-Bus" title="Book-My-Bus">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=Book-My-Bus&theme=react&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/whomimohshukla/Chatr-" title="Chatr-">
@@ -221,23 +239,10 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=-Freelance-Marketplace--Project&theme=react&border_color=61dafb&border_radius=10" />
       </a>
     </td>
+    
   </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/whomimohshukla/skillbridge" title="SkillBridge">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=skillbridge&theme=react&border_color=61dafb&border_radius=10" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/whomimohshukla/Book-My-Bus" title="Book-My-Bus">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whomimohshukla&repo=Book-My-Bus&theme=react&border_color=61dafb&border_radius=10" />
-      </a>
-    </td>
-  </tr>
+  
+  
 </table>
 
 <br>
