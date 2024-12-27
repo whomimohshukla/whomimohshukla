@@ -248,7 +248,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/whomimohshukla?tab=repositories" title="Show Repositories">
+  <a href="https://github.com/whomimohshukla?tab=repositories" title="view  Repositories">
     <img src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white&link=https://github.com/whomimohshukla?tab=repositories" alt="More Repositories" />
   </a>
 </p>
