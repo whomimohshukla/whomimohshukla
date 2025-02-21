@@ -3,9 +3,7 @@
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Tech+Explorer&center=true&width=500&height=50"></a>
 </p>
-
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mimohshukla00/"><img src="https://img.shields.io/badge/-mimohshukla00-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/whomimohshukla"><img src="https://img.shields.io/badge/-whomimohshukla-black?style=flat&logo=Github&logoColor=white"/></a>
