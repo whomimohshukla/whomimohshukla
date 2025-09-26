@@ -15,7 +15,7 @@
 <br><br>
 
 <p align="left">
-  Hey there! 👋 I'm Mimoh, a passionate Full Stack Developer and Computer Science sophomore who loves turning ideas into code.
+  Hey there! 👋 I'm Mimoh, a passionate Full Stack Developer and Computer Science final year student who loves turning ideas into code.
   <br><br>
   
   🎓 Currently pursuing Computer Science with a focus on Full Stack Development
