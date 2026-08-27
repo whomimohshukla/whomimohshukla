@@ -1,30 +1,7 @@
-# Mimoh Shukla
+I'm Mimoh Shukla, a Full Stack Software Engineer building backend-heavy applications with AI woven into the product, not bolted on top. I currently work at **Taurgo**, an AI-powered PropTech startup based in Cardiff, UK, where I build NestJS backends, Next.js frontends, and multi-model AI pipelines — including damage-detection systems and virtual tour intelligence — that ship to real users, not demos.
 
-Full Stack Software Engineer
+My core stack is Node.js, NestJS, React, Next.js, PostgreSQL, Prisma, Redis, Docker, and AWS, paired with hands-on GenAI work: RAG pipelines, embeddings and vector search, tool/function calling, and multi-model orchestration across Gemini, GPT-4o mini, and Claude. I care about the parts of AI engineering that actually hold up in production — retrieval quality, hallucination mitigation, and knowing when an LLM call is the wrong tool for the job — because that's the difference between a working feature and a demo that breaks in front of a user.
 
-I build backend-heavy full stack applications — currently working as a Full Stack Software Engineer at **Taurgo**, an AI-powered PropTech startup based in Cardiff, UK (remote, based in India). My work spans NestJS/Node.js backends, React/Next.js frontends, and multi-model AI pipelines for property intelligence features.
 
----
 
-## What I work with
-
-Backend-focused full stack development: Node.js, NestJS, React, Next.js, PostgreSQL, Prisma, Redis, Docker, AWS, Socket.io, and AI integrations (Gemini, GPT, Claude).
-
----
-
-## Featured Projects
-
-**ClaimWise UK** — AI-powered bill and benefits checker SaaS, built as a full monorepo with Next.js, Express, Prisma, and Claude AI integration.
-
-**DevSwap** — MERN-based developer marketplace platform.
-
-**BookMyBus** — Real-time GPS-based bus tracking and ticket booking system using Socket.io and Razorpay.
-
----
-
-## Contact
-
-- **Email:** mimohshukla0001@gmail.com
-- **Portfolio:** [mimohshukla.vercel.app](https://mimohshukla.vercel.app)
-- **LinkedIn:** [linkedin.com/in/mimohshukla00](https://linkedin.com/in/mimohshukla00)
-- **GitHub:** [github.com/whomimohshukla](https://github.com/whomimohshukla)
+Reach me at mimohshukla0001@gmail.com, see my work at [mimohshukla.vercel.app](https://mimohshukla.vercel.app), find my code at [github.com/whomimohshukla](https://github.com/whomimohshukla), or connect on [LinkedIn](https://linkedin.com/in/mimohshukla00).
