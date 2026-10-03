@@ -1,6 +1,6 @@
 # Hi, I'm Mimoh Shukla 👋
 
-**Software Engineer** · Full Stack & Backend · Remote, India
+**Software Engineer** · Full Stack & Backend 
 
 I build production web applications and backend systems with **TypeScript, Node.js, React/Next.js, PostgreSQL, Redis and AWS**, with AI features built into the product rather than added on top.
 
