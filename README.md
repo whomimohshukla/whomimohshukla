@@ -43,4 +43,3 @@ B.Tech in Computer Science Engineering, IIMT University (2022 to 2026)
 - LinkedIn: [linkedin.com/in/mimohshukla00](https://www.linkedin.com/in/mimohshukla00/)
 - Email: [mimohshukla0001@gmail.com](mailto:mimohshukla0001@gmail.com)
 
-Open to Software Engineer, Backend Engineer and Full Stack Engineer roles.
