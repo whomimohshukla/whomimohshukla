@@ -7,12 +7,6 @@ I build production web applications and backend systems with **TypeScript, Node.
 
 I work at **Taurgo**, a UK-based AI PropTech startup, where I:
 
-- Ship features across React/Next.js, Node.js/TypeScript APIs and Supabase/PostgreSQL: notifications, subscriptions, property inventory and survey reporting
-- Build AI-powered photo inspection and reporting with Gemini, OpenAI and Claude, which cut manual reporting effort by 70%
-- Reduced database load by 40% through PostgreSQL query optimization, indexing and Redis caching
-- Deploy production services on AWS EC2 with Docker, Nginx, SSL/TLS, PM2 and CI/CD, sustaining 99.9% uptime
-- Implement JWT authentication, TOTP/email 2FA and Row Level Security, plus Stripe subscription workflows
-
 ## Tech stack
 
 | Area | Tools |
