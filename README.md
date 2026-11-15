@@ -26,11 +26,6 @@ I work at **Taurgo**, a UK-based AI PropTech startup, where I:
 **[ClaimWise UK](https://github.com/whomimohshukla/ClaimWise-UK)**: an AI-powered tool for finding unclaimed UK benefits and bill savings, with secure authentication, rate-limited APIs and PDF parsing, deployed on AWS EC2 behind Nginx.
 
 **[BookMyBus](https://github.com/whomimohshukla/Book-My-Bus)**: a real-time bus ticketing platform with WebSocket seat locking, GPS tracking and payments, containerized with Docker.
-
-## Education
-
-B.Tech in Computer Science Engineering, IIMT University (2022 to 2026)
-
 ## Get in touch
 
 - Portfolio: [mimohshukla.vercel.app](https://mimohshukla.vercel.app)
